@@ -4,7 +4,6 @@
 
 > Procedurally generates ninja swords from everyday objects using arcane logic, speculative kitchen science, and unstable particle-based folklore.
 
-![banana\_katana\_banner](https://fakeimg.pl/800x200/?text=Ninja+Sword+Generator\&font=lobster)
 
 ## 📦 Overview
 
